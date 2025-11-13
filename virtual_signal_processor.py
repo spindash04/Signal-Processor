@@ -1,9 +1,5 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Tue Oct 29 12:10:09 2024
 
-@author: 08sha
-"""
 # importing libraries
 import numpy as np
 import matplotlib.pyplot as plt
@@ -225,3 +221,4 @@ aslider.on_changed(update)
 pslider.on_changed(update)
 sfslider.on_changed(update)
 efslider.on_changed(update)
+
